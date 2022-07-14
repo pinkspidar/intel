@@ -20,8 +20,7 @@ print(out_a)
 #intel 2
 #intel 3
 #main
-#main
-#main
+
 
 ##########################################
 
