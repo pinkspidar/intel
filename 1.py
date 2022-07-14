@@ -16,12 +16,7 @@ out_a = forward()
 print(out_a)
 
 #
-#intel 1
-#intel 2
-#intel 3
-#intel 4
-#intel 5
-#intel 6
+#branch2 - 1
 
 #main
 #main
